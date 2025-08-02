@@ -2,6 +2,7 @@
   "name": "ai-resume-analyzer",
   "private": true,
   "type": "module",
+  "author": "Prakhar Katiyar",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
